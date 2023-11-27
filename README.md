@@ -5,10 +5,10 @@
 #!/bin/bash
 
 directories=(
-   "./nvim"
    "./terminal"
    "./tmux"
    "./vim"
+   "./nvim"
 )
 
 for dir in "${directories[@]}"; do
