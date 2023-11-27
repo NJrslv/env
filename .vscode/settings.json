@@ -1,0 +1,4 @@
+{
+    "cmake.configureOnOpen": true,
+    "vim.vimrc.enable": true
+}

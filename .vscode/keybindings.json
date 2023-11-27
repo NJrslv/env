@@ -1,0 +1,5 @@
+// Place your key bindings in this file to override the defaults
+// Cmd+shift+P | open keyboard shortcuts (JSON)
+[
+    { "key": "cmd+n", "command": "explorer.newFile", "when": "explorerViewletFocus" }
+] 
